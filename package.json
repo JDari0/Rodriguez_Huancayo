@@ -1,7 +1,7 @@
 {
   "name": "pwrodriguez_huancayo",
   "version": "1.0.0",
-  "description": "",
+  "description": "[U2_TALLER_04]: Autorización y Autenticación",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir build",
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/JDari0/pwRodriguez_Huancayo.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Johnny Rodriguez H.",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JDari0/pwRodriguez_Huancayo/issues"

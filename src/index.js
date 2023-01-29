@@ -1,3 +1,6 @@
+// Video de referencia para esta practica 
+// https://www.youtube.com/watch?v=lV7mxivGX_I
+
 import app from './app'
 import './database'
 
